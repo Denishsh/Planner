@@ -1,8 +1,8 @@
 # Planner
 Навигация к форме обратной связи
-1. Открыть сайт https://netology.ru/
-2. Перейти в каталог курсов ![image](https://user-images.githubusercontent.com/85746963/158998091-6c0e89a0-cbeb-4f25-a9f8-ad2138c4bd97.png)
-3. Выбрать курс Тестировщик ![image](https://user-images.githubusercontent.com/85746963/158998223-e4056cae-34a2-4853-b13f-fcde27513e02.png)
+a. Открыть сайт https://netology.ru/
+b. Перейти в каталог курсов ![image](https://user-images.githubusercontent.com/85746963/158998091-6c0e89a0-cbeb-4f25-a9f8-ad2138c4bd97.png)
+c. Выбрать курс Тестировщик ![image](https://user-images.githubusercontent.com/85746963/158998223-e4056cae-34a2-4853-b13f-fcde27513e02.png)
 
 
 
